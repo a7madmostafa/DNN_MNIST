@@ -1,2 +1,4 @@
 # CNN_MNIST
-MNIST which has items of handwriting -- the digits 0 through 9.  Write an MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs -- i.e. you should stop training once you reach that level of accuracy.  Some notes:  It should succeed in less than 10 epochs, so it is okay to change epochs= to 10, but nothing larger When it reaches 99% or greater it should print out the string "Reached 99% accuracy so cancelling training!" If you add any additional variables, make sure you use the same names as the ones used in the class
+MNIST which has items of handwriting -- the digits 0 through 9.  
+I will make MNIST classifier that trains to 99% accuracy or above, and does it without a fixed number of epochs -- 
+i.e. it should stop training When it reaches 99% or greater and print out "Reached 99% accuracy so cancelling training!" 
